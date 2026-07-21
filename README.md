@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/YOUR-USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=flat&color=blue" alt="followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=gabrielnjoku&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/gabrielnjoku?tab=followers"><img src="https://img.shields.io/github/followers/gabrielnjoku?label=Followers&style=flat&color=blue" alt="followers" /></a>
 </p>
 
 ---
@@ -104,19 +104,19 @@ Designing structured AI Automation workflows - from a KDP-published book to a te
 | **Enugu-West Grammar School Alumni Hub** | 5-page static alumni site built with Tailwind CSS via a spec-driven, prompt-by-prompt process with documented design rationale |
 | **MamaPutOnline** | Nigerian food delivery UI concept (HTML/CSS only), built across five sequential design phases |
 
-> [More Projects →](https://github.com/YOUR-USERNAME?tab=repositories)
+> [More Projects →](https://github.com/gabrielnjoku?tab=repositories)
 
 ---
 
 ### GitHub Analytics
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielnjoku&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnjoku&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielnjoku&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
