@@ -11,7 +11,7 @@
 
 ### About Me
 
-I'm an IT Administrator and multi-cloud engineer with a growing focus on **AI automation and web development**. Over a decade of experience spans IT support, cloud operations (AWS, Azure, GCP), and cybersecurity - and I'm now building out a parallel track in full stack web development and AI-powered systems.
+I'm a Digital Transformation Expert and multi-cloud engineer with a growing focus on **AI automation and web development**. Over a decade of experience spans IT support, cloud operations (AWS, Azure, GCP), and cybersecurity - and I'm now building out a parallel track in full stack web development and AI-powered systems.
 
 <table>
 <tr>
