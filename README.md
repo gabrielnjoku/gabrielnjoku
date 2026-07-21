@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./gabriel-njoku-banner.gif" width="100%" alt="Gabriel Njoku header banner" />
+  <img src="[./gabriel-njoku-banner.gif](https://rightsolvesys.com/images/banner.gif)" width="100%" alt="Gabriel Njoku header banner" />
 </p>
 
 <p align="center">
