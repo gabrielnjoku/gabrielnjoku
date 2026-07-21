@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabrielnjoku&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/gabrielnjoku?tab=followers"><img src="https://img.shields.io/github/followers/gabrielnjoku?label=Followers&style=flat&color=blue" alt="followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  
 </p>
 
 ---
